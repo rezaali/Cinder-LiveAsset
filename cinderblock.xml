@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cinder>
+<block
+	name="LiveAsset"
+	id="com.syedrezaali.LiveAsset"
+	git="git://github.com/rezaali/Cinder-LiveAsset.git"
+	url="http://www.syedrezaali.com/#/LiveAsset/"
+	author="Reza Ali syed.reza.ali@gmail.com"
+	summary="Watches for file changes so resources can be updated in real-time, shaders, images, sounds, etc"
+	license="MIT"
+	>
+	<headerPattern>src/*.h</headerPattern>
+	<sourcePattern>src/*.cpp</sourcePattern>
+</block>
+</cinder>
