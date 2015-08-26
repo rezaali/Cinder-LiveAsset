@@ -3,7 +3,7 @@
 <block
 	name="LiveAsset"
 	id="com.syedrezaali.LiveAsset"
-	git="git://github.com/rezaali/Cinder-LiveAsset.git"
+	git="https://github.com/rezaali/Cinder-LiveAsset.git"
 	url="https://github.com/rezaali/Cinder-LiveAsset"
 	author="Reza Ali syed.reza.ali@gmail.com"
 	summary="Watches for file changes so resources can be updated in real-time, shaders, images, sounds, etc"
